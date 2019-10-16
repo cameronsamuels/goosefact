@@ -50,5 +50,5 @@ const facts = [
   "Papercuts occur when people think about geese while reading a book",
   "Geese attacks towards humans are far more likely than shark attacks",
   "Due to overpopulation, the Mayor of Warwick gave away gift cards to those who hunted geese",
-  "Geese own many private residences and underground labratories to research into manipulative science",
+  "Geese own many private residences and underground labratories to research into manipulative science"
 ];
