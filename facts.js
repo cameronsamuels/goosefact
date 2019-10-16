@@ -1,5 +1,5 @@
 // Facts archive
-const facts = [
+const FACTS = [
   "Geese can grow up to 10 feet tall if well nourished by their parental figures",
   "Geese have been known to eat humans starting at the age of 14 months",
   "Studies have shown that eating a goose a day will increase your lifespan by 19 years",
