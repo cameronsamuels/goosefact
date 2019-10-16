@@ -17,19 +17,20 @@ body {
   overflow: hidden;
 }
 
-main>div:first-of-type {
+main {
   box-sizing: border-box;
   width: 344px;
-  margin-top: -40%;
+  margin-top: -20vh;
   padding: 20px;
   background: #fff;
   border-radius: 4px;
-  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, .45), 0px 1px 1px 0px rgba(0, 0, 0, .35), 0px 1px 3px 0px rgba(0,0,0,.3);
+  box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .45), 0 1px 1px 0 rgba(0, 0, 0, .35), 0 1px 3px 0 rgba(0,0,0,.3);
   user-select: none;
   cursor: pointer;
 }
 
 h1 {
+  display: inline-block;
   font-size: 2.5em;
   font-weight: 400;
 }
@@ -41,6 +42,7 @@ h1:after {
 }
 
 p {
+  margin-top: 0;
   font-size: 1.5em;
 }
 
@@ -55,4 +57,20 @@ footer {
 
 footer img {
   vertical-align: middle;
+}
+
+@media (orientation: landscape) {
+  main {
+    width: 70vh;
+    margin-top: -10vh;
+  }
+  h1 {
+    font-size: 7vh;
+  }
+  h1:after {
+    font-size: 2vh;
+  }
+  p {
+    font-size: 4.5vh;
+  }
 }

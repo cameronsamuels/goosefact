@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", function() {
   
   // HTML elements
-  var card = document.querySelector("main>div");
-  var heading = document.querySelector("main>div>h1");
-  var text = document.querySelector("main>div>p");
+  var card = document.querySelector("main");
+  var heading = document.querySelector("h1");
+  var text = document.querySelector("p");
   
   // Load page content
   function loadFact(x) {
