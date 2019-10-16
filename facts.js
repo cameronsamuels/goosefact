@@ -50,5 +50,14 @@ const facts = [
   "Papercuts occur when people think about geese while reading a book",
   "Geese attacks towards humans are far more likely than shark attacks",
   "Due to overpopulation, the Mayor of Warwick gave away gift cards to those who hunted geese",
-  "Geese own many private residences and underground labratories to research into manipulative science"
+  "Geese own many private residences and underground labratories to research into manipulative science",
+  "Goosebumps are created when the geese inside you feel it's time to head south for winter",
+  "The geese mafia is funded by numerous members of the upper class",
+  "If you say \"honk\" three times, a geese will appear any moment",
+  "Every person has a goose cousin. If you don't, you may be that cousin",
+  "Plane tickets are expensive thanks to geese",
+  "Everything is bigger in Texas, including geese and their droppings",
+  "The minimum wage to clean up goose droppings is nonexistent",
+  "Finding a goose foot is considered unlucky according to previous studies",
+  "When you click a link and it unexpectedly opens a picture of a goose, you got geese-rolled",
 ];
