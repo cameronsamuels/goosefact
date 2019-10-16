@@ -1,0 +1,58 @@
+@font-face {
+  font-family: varela;
+  src: local('Varela Round Regular'), local('VarelaRound-Regular'), url(varela.woff2) format('woff2');
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #81C784;
+  color: #222;
+  font-family: varela;
+  text-align: center;
+  overflow: hidden;
+}
+
+main>div:first-of-type {
+  box-sizing: border-box;
+  width: 344px;
+  margin-top: -40%;
+  padding: 20px;
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, .45), 0px 1px 1px 0px rgba(0, 0, 0, .35), 0px 1px 3px 0px rgba(0,0,0,.3);
+  user-select: none;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: 400;
+}
+
+h1:after {
+  display: block;
+  content: "(tap anywhere for new fact)";
+  font-size: .4em;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: .3em;
+  background: #fff;
+  font-size: 1.5em;
+}
+
+footer img {
+  vertical-align: middle;
+}
