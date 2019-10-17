@@ -15,7 +15,7 @@ const FACTS = [
   "Geese use unbacked sources to claim humans stay up all night on social media",
   "Geese claim cheese puffs are made of goat droppings to keep them all to themselves",
   "Geese control all three branches of the government",
-  "When a geese is born, the stock market dips a couple points",
+  "When a goose is born, the stock market dips a couple points",
   "A goose that hangs upside down may be a goose bat",
   "Geese who eat popcorn may poop candy corn",
   "Hypnotism was brought to humans through its discovery by geese",
