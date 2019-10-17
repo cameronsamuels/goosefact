@@ -69,7 +69,7 @@ const FACTS = [
   "Geese that can play the piano are most likely to B# if you C what I mean",
   "Geese that walk on three legs may be extra aggressive towards children",
   "Back in the old days, geese used to eat people's homework",
-  "When a business goes bankrupt, the reason ia most likely something goose-related",
+  "When a business goes bankrupt, the reason is most likely something goose-related",
   "Bad grammar is a common trait among the geese species",
   "Geese used to be regarded as an overpopulated species until 2068 when they began to be considered excessively dangerous",
   "It isn't your fault you don't have your lunch money today. A goose stole it",
@@ -99,5 +99,13 @@ const FACTS = [
   "Geese were the first to make it to the moon. The US was in fact second",
   "Speaking out against geese is punishable of banishment to the goose house",
   "Geese are the leading cause of withdrawal from overly fun activities",
-  "Geese hypnotize teenagers and make them share goose facts in order to hypnotize other teens which is all just a minor part in geese taking over our very own planet, PERIYAT"
+  "Geese hypnotize teenagers and make them share goose facts in order to hypnotize other teens which is all just a minor part in geese taking over our very own planet, PERIYAT",
+  "When you suffer from FOMO, the geese are the ones that took away your fun",
+  "When a goose is diagnosed with death, they most likely do not reach heaven",
+  "Some people say the Mona Lisa is Leonardo as a goose",
+  "The ninja snorkels were originally geese when they were infants",
+  "Krav Maga Panda was a goose as his father was one",
+  "The worse insult to a goose is \"Duck you\"",
+  "Of Geese and Women was written by Jonk Steinbonk during the Goose Depression",
+  "The dust bowl was nothing compared to the goose bowl of 1892",
 ];
