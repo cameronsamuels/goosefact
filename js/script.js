@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
   
   // HTML elements
-  var card = document.querySelector("main");
   var heading = document.querySelector("h1");
   var text = document.querySelector("p");
   
@@ -17,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
   function newFact() {
     window.location.hash = Math.ceil(Math.random() * FACTS.length);
   }
-  card.addEventListener("click", newFact);
+  document.addEventListener("click", newFact);
   document.addEventListener("keypress", newFact);
   
   // Page load
