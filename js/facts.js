@@ -108,4 +108,5 @@ const FACTS = [
   "The worse insult to a goose is \"Duck you\"",
   "Of Geese and Women was written by Jonk Steinbonk during the Goose Depression",
   "The dust bowl was nothing compared to the goose bowl of 1892",
+  "A goose's beak is made of Hydrogen, Oxygen, Nitrogen, and Potassium (H-O-N-K)",
 ];
