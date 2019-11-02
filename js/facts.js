@@ -53,7 +53,7 @@ const FACTS = [
   "Geese own many private residences and underground labratories to research into manipulative science",
   "Goosebumps are created when the geese inside you feel it's time to head south for winter",
   "The geese mafia is funded by numerous members of the upper class",
-  "If you say \"honk\" three times, a geese will appear any moment",
+  "If you say \"honk\" three times, a goose will appear any moment",
   "Every person has a goose cousin. If you don't, you may be that cousin",
   "Plane tickets are expensive thanks to geese",
   "Everything is bigger in Texas, including geese and their droppings",
