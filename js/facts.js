@@ -116,4 +116,7 @@ const FACTS = [
   "Nightmares and the lack of sleep are caused by geese terrorizing you during the night",
   "Bad hairs days can become even worse if you let a goose touch your hair",
   "Geese have pyrokinesis",
+  "Although other animals should be seen not heard, geese should not be seen nor heard",
+  "Geese dress up as cultural appropriation for Halloween",
+  "Geese, not the Southern Baptist, created Jews for Jesus",
 ];
