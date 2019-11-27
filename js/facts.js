@@ -119,4 +119,5 @@ const FACTS = [
   "Although other animals should be seen not heard, geese should not be seen nor heard",
   "Geese dress up as cultural appropriation for Halloween",
   "Geese, not the Southern Baptist, created Jews for Jesus",
+  "The word \"goose\" rhymes with the word \"evil\" and \"danger\"",
 ];
