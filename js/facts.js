@@ -120,4 +120,9 @@ const FACTS = [
   "Geese dress up as cultural appropriation for Halloween",
   "Geese, not the Southern Baptist, created Jews for Jesus",
   "The word \"goose\" rhymes with the word \"evil\" and \"danger\"",
+  "When you give a goose a knife, it will give you a safety honk", // @thunthunbacon
+  "Geese are a subspecies of duck made from the DNA of Stephen Honking", // @eduardos.a.o040604
+  "Doing your duty of chasing geese is as easy as A-B-C",
+  "Geese cannot count in a proper sequence",
+  "Geese were aliens but the government was not strong enough to suppress them", // @the_anonymous_o
 ];
