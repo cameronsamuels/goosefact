@@ -114,15 +114,34 @@ const FACTS = [
   "When threatened, geese can travel at numerous times the speed of light",
   "Goose goose duck is a childish game played by mischievous kids",
   "Nightmares and the lack of sleep are caused by geese terrorizing you during the night",
-  "Bad hairs days can become even worse if you let a goose touch your hair",
+  "Bad hair days can become even worse if you let a goose touch your hair",
   "Geese have pyrokinesis",
   "Although other animals should be seen not heard, geese should not be seen nor heard",
   "Geese dress up as cultural appropriation for Halloween",
   "Geese, not the Southern Baptist, created Jews for Jesus",
   "The word \"goose\" rhymes with the word \"evil\" and \"danger\"",
-  "When you give a goose a knife, it will give you a safety honk", // @thunthunbacon
-  "Geese are a subspecies of duck made from the DNA of Stephen Honking", // @eduardos.a.o040604
+  "When you give a goose a knife, it will give you a safety honk", //@thunthunbacon
+  "Geese are a subspecies of duck made from the DNA of Stephen Honking", //@eduardos.a.o040604
   "Doing your duty of chasing geese is as easy as A-B-C",
   "Geese cannot count in a proper sequence",
-  "Geese were aliens but the government was not strong enough to suppress them", // @the_anonymous_o
+  "Geese were aliens but the government was not strong enough to suppress them", //@the_anonymous_o
+  "If a goose reads from a Torah, it is no longer a holy artifact and thus cannot be used in prayer", //toast
+  "A product made by a goose will always contain some amount of cyanide", //toast
+  "Geese eat geese pies, thus, you can breed a race of cannibal geese", //toast
+  "If geese swallow toast, another goose will appear, so protect the toast", //toast
+  "Final exams were invented by the geese", //@maddieschur
+  "Geese are responsible for the doomsday event", //@friend_a_8180
+  "Geese are carnivores. Ever wondered why your great great gramma died?", //@gsneum
+  "The last known human to ever walk the earth was killed by a goose", //@gsneum
+  "Geese are wonderful singers and love having an audience, especially those who tip",  //@gsneum
+  "If geese would wear pants, they would not because they are geese", //@gsneum
+  "The goose who lived the longest a goose has lived died yester. RIP Gerald", //@gsneum
+  "Chickens are just fake geese", //@gsneum
+  "Geese erased the entire wolf population three decades ago. Each wolf is a goose in disguise", //@gsneum
+  "Geese have a beak that can be used to peck many things, including bread, people, and more geese", //@mirkomie
+  "Goose bad", //@mirkomie
+  "Geese hiss at people because they are part snake", //@thunthunbacon
+  "Geese are **always** watching", //@j.phillips192
+  "Geese are the leading cause for every war in history", //@zacksingerman
+  "Geese are also responsible for world peace, because of a 0 human population they created", //@zacksingerman
 ];
