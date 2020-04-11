@@ -144,4 +144,7 @@ const FACTS = [
   "Geese are **always** watching", //@j.phillips192
   "Geese are the leading cause for every war in history", //@zacksingerman
   "Geese are also responsible for world peace, because of a 0 human population they created", //@zacksingerman
+  "Coming in contact with the geese will lower your IQ by 10 points", //@noa.apple
+  "If you cut a goose in half, it will regenerate two geese", //_motel_kamzoil
+  "COVID-19 was the government's attempt to keep us inside while they recharge the geese", //_motel_kamzoil
 ];
