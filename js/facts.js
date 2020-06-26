@@ -146,4 +146,15 @@ const FACTS = [
   "Geese are also responsible for world peace, because of a 0 human population they created", //@zacksingerman
   "Coming in contact with the geese will lower your IQ by 10 points", //@noa.apple
   "If you cut a goose in half, it will regenerate two geese", //@_motel_kamzoil
+  "The sound a goose makes was made around the same time as a car's honk", //@eduardos.a.o040604
+  "To kill a goose is to live twice", //@shmlpprs
+  "If you shoot at a goose, it will swallow the bullet and spit it back at you", //@_charlie.hanson
+  "Your FBI agent is actually a goose in disguise", //@zacksingerman
+  "Geese stay with their mates for life", //@neha_ra05
+  "The government once unleashed killer geese on dissidents", //@neha_ra05
+  "Geese secretly have rigged ballot boxes in elections. It was not Russia", //@itszippy23
+  "Geese only have two thoughts: chaos and destruction", //@mirkomie
+  "Ducks are a myth", //@dolevisaac
+  "Geese do not have names because individuality is weak", //@dolevisaac
+  "A car's honk is a goose trapped inside",
 ];
