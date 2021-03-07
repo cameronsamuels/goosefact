@@ -10,12 +10,12 @@ body {
   margin: 0;
   width: 100vw;
   height: 100vh;
-  background: #81C784;
   color: #222;
   font-family: varela;
   text-align: center;
   user-select: none;
   overflow: hidden;
+  animation: bg-animation 10s infinite;
 }
 
 main {
@@ -73,4 +73,40 @@ footer img {
   p {
     font-size: 4.5vh;
   }
+}
+
+@-webkit-keyframes bg-animation{
+    0% {
+        background: #81C784;
+    }
+    25% {
+        background: #4db8ff;
+    }
+    50% {
+        background: #ff6666;
+    }
+    75% {
+        background: #ffb84d;
+    }
+    100%{
+        background: #81C784;
+    }
+}
+
+@keyframes bg-animation {
+    0% {
+        background: #81C784;
+    }
+    25% {
+        background: #4db8ff;
+    }
+    50% {
+        background: #ff6666;
+    }
+    75% {
+        background: #ffb84d;
+    }
+    100%{
+        background: #81C784;
+    }
 }
